@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "classic",
+    "name": "Classic Sourdough",
+    "price": 150,
+    "image": "assets/images/classic.jpg",
+    "description": "Our signature naturally fermented sourdough with a crisp crust and a soft, flavourful crumb."
+  },
+  {
+    "slug": "whole-wheat",
+    "name": "Whole Wheat Sourdough",
+    "price": 175,
+    "image": "assets/images/wholewheat.jpg",
+    "description": "Made with whole wheat flour for a richer flavour and a hearty texture."
+  },
+  {
+    "slug": "black-olive",
+    "name": "Black Olive Sourdough",
+    "price": 200,
+    "image": "assets/images/olive.jpg",
+    "description": "Filled with whole black olives for a naturally savoury flavour."
+  },
+  {
+    "slug": "black-sesame",
+    "name": "Black Sesame Sourdough",
+    "price": 175,
+    "image": "assets/images/sesame.jpg",
+    "description": "Toasted black sesame adds a deep nutty aroma and a delicate roasted finish."
+  },
+  {
+    "slug": "cranberry",
+    "name": "Cranberry Sourdough",
+    "price": 250,
+    "image": "assets/images/cranberry.jpg",
+    "description": "Naturally sweet cranberries bring a gentle fruity balance to every slice."
+  },
+  {
+    "slug": "cranberry-walnut",
+    "name": "Cranberry Walnut Sourdough",
+    "price": 300,
+    "image": "assets/images/cranberry-walnut.jpg",
+    "description": "Sweet cranberries balanced with roasted walnuts for a rich, satisfying bite."
+  },
+  {
+    "slug": "cranberry-cream-cheese",
+    "name": "Cranberry Cream Cheese Sourdough",
+    "price": 300,
+    "image": "assets/images/cranberry-cream-cheese.jpg",
+    "description": "Sweet cranberries paired with smooth cream cheese for a perfectly balanced loaf."
+  },
+  {
+    "slug": "three-cheeses",
+    "name": "Three Cheeses Sourdough",
+    "price": 300,
+    "image": "assets/images/three-cheeses.jpg",
+    "description": "Every loaf is made with Red Cheddar, Cream Cheese, and a carefully selected blend of artisan cheeses that may vary from bake to bake."
+  }
+]
