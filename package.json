@@ -1,0 +1,15 @@
+{
+  "name": "jdos-v0.6",
+  "version": "0.6.0",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "db:create": "wrangler d1 create jdos-products",
+    "db:init:local": "wrangler d1 execute jdos-products --local --file=./schema.sql",
+    "db:init:remote": "wrangler d1 execute jdos-products --remote --file=./schema.sql"
+  },
+  "devDependencies": {
+    "wrangler": "^4.24.3"
+  }
+}
