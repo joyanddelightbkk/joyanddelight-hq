@@ -1,0 +1,6 @@
+JDOS v0.6.2 WEBSITE READY
+1) Upload/replace the CONTENTS of this folder in GitHub repo joyanddelight-hq.
+2) Commit once.
+3) Cloudflare will deploy from GitHub.
+4) Open https://joyanddelightbkk.com and hard-refresh.
+5) /hq and Worker/API files are retained from v0.6.1.
